@@ -17,7 +17,7 @@ export default function Home() {
     <main className=" bg-white px-10">
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between">
-            <h1 className="text-xl font-burtons font-bold text-black">Shahmeer's Portfolio</h1>
+            <h1 className="text-xl font-burtons font-bold text-black">Shahmeer&apos;s Portfolio</h1>
             <ul className="flex items-center">
               <li className="text-black">
                 <BsFillMoonStarsFill className="cursor-pointer text-2xl" />
@@ -74,7 +74,7 @@ export default function Home() {
         <p className='text-black leading-5 p-5'>
         <p class='font-bold text-md '>Java Snake Game</p>
         <p class='font-semibold text-md py-3'>Personal Project | Feb 2023 - Mar 2023</p>
-        <ul className='p-5'> • Developed a classic Snake game using Java’s Swing library and applying Object- Oriented Programming principles to create a modular and maintainable codebase </ul>
+        <ul className='p-5'> • Developed a classic Snake game using Java&apos;s Swing library and applying Object- Oriented Programming principles to create a modular and maintainable codebase </ul>
         <ul className='p-5'> • Implemented interactive gameplay with user-controlled snake movement, apple collection for scoring, and dynamic snake growth </ul>
         <ul className='p-5'> • Ensured bug-free functionality through comprehensive testing and incorporated features like collision detection and game-ending conditions </ul></p>
 
